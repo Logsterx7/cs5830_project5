@@ -1,14 +1,14 @@
 
-##Apple Classification
+## Apple Classification
 
-##Objective
+## Objective
 
 Develop a classification model to categorize fruits based on their features using Gaussian Naive Bayes.
 
-##Potential Scenario/Story:
+## Potential Scenario/Story:
 A fruit distributor wants to automate the sorting process of various fruits based on their characteristics such as size, weight, sweetness, crunchiness, juiciness, ripeness, and acidity. They have collected a dataset containing these attributes along with the corresponding fruit types.
 
-##Method
+## Method
 
 **Data Preprocessing:** Perform necessary preprocessing steps such as handling missing values, encoding categorical variables (if any), and scaling or standardizing features if necessary.
 
